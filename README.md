@@ -15,3 +15,6 @@ This project demonstrates the capability to:
 - `heatmap.ipynb`: A demo Jupyter notebook that generate people heatmap from the video clip. Generate output as annoated video.
 - `analytics.ipynb`: A demo Jupyter notebook that shows how to perform analytics with the JSON data file for visualization and findings.
 - `genai-vision.ipynb`: A demo Jupyter notebook that leverage Generative AI vision capability to get description from the frame sequences of the video clip.
+
+## Note
+This repo is for demo purpose only. 
